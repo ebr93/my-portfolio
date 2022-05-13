@@ -71,7 +71,7 @@ a {
 
 .header {
     grid-area: header;
-    background-image: linear-gradient(to right, #5751d9 , #807ae2);
+    background-image: linear-gradient(to right, #d95151, #807ae2);
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
     margin: 20px 0px -40px 0px;
@@ -136,6 +136,7 @@ a {
     display: flex;
     flex-direction: column;
     text-align: start;
+    overflow: hidden;
 }
 
 .project:hover {
