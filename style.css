@@ -62,7 +62,10 @@ body {
 .button-container {
     display: flex;
     justify-content: space-evenly;
+}
 
+a {
+    text-align: center;
 }
 
 
