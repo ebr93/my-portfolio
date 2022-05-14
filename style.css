@@ -64,6 +64,10 @@ body {
     justify-content: space-evenly;
 }
 
+.sidebar-button:hover {
+    transform: scale(1.2);
+}
+
 a {
     text-align: center;
 }
